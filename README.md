@@ -1,1 +1,1 @@
-Pandas filtering, selection, Stack/unstack and pivoting methods
+Pandas filtering, Selection, Stack/unstack and pivoting methods
